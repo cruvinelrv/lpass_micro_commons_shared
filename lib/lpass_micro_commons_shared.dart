@@ -1,0 +1,1 @@
+library lpass_micro_commons_shared;
